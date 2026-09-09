@@ -1,8 +1,8 @@
 <h1 align="center">Eray Agarer</h1>
 
 <p align="center">
-  <b>Front-end developer</b> · Türkiye<br/>
-  TypeScript, React &amp; Next.js — real-time telephony and AI interfaces.
+  <b>Software developer</b> · Türkiye<br/>
+  TypeScript end to end — Next.js on the front, Postgres and real-time plumbing behind it.
 </p>
 
 <p align="center">
@@ -16,9 +16,10 @@
 
 ### About
 
-I build the front-end of products where the interface has to keep up with something live — a call in progress, an agent streaming a reply, a queue changing under the user's feet.
+I build products where the interface has to keep up with something live — a call in progress, an agent streaming a reply, a queue changing under the user's feet. These days I own the whole slice rather than just the screen: schema and row-level security at the bottom, component API at the top.
 
 - 🛠️ Working on **WebRTC softphones, PBX dashboards and AI agent consoles** — Next.js + TypeScript, real-time state over WebSocket/SIP.
+- 🗄️ Increasingly at home in the **back end**: Postgres schema design, multi-tenant isolation with RLS, auth and file storage.
 - 🧩 Interested in **design systems, component APIs and state that stays predictable** when everything is async.
 - 🌱 Currently going deeper into **React Native**, **AI-assisted developer tooling** and **data visualisation**.
 - ✍️ I write my architecture and requirements down before I write the code — which is how [`engineering-blueprint`](https://github.com/eagarer/engineering-blueprint) happened.
@@ -43,23 +44,13 @@ Traceable (`FR → UC → epic → test`), argued, and honest: it ends with a re
 </td>
 <td width="50%" valign="top">
 
-#### 📊 [ExcelPreview](https://github.com/eagarer/ExcelPreview)
+#### 🔧 Servio — [live demo](https://servio-navy.vercel.app)
 
-Browser-side spreadsheet preview — drop an Excel file in, render it without a round trip to a server.
+Multi-tenant SaaS for repair shops. Type a plate, get everything ever done to that car: job timeline, recurring-fault warning, warranty status, photo evidence.
 
-`JavaScript`
+Built around one idea — no surprise invoices. Quotes need approval, history is provable, and every shop's data is isolated at the database level with Postgres RLS.
 
-#### 🎁 [raffle](https://github.com/eagarer/raffle)
-
-Raffle / giveaway draw application built with TypeScript.
-
-`TypeScript`
-
-#### ⚡ [next-example](https://github.com/eagarer/next-example)
-
-Next.js reference setup I use as a starting point.
-
-`TypeScript`
+`Next.js 16` · `React 19` · `TypeScript` · `Tailwind v4` · `Supabase` · *source private*
 
 </td>
 </tr>
@@ -92,6 +83,7 @@ Next.js reference setup I use as a starting point.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
 **Tooling**
