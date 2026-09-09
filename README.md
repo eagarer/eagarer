@@ -44,13 +44,13 @@ Traceable (`FR → UC → epic → test`), argued, and honest: it ends with a re
 </td>
 <td width="50%" valign="top">
 
-#### 🎬 NextShorts
+#### 🎬 [NextShorts](https://chromewebstore.google.com/detail/nextshorts-%e2%80%94-auto-advance/hdanpjeffljaehmejigccijknedbadcj)
 
 Chrome extension that auto-advances YouTube Shorts. The advancing isn't the hard part — Shorts loop by default, so the `ended` event never fires at all. It watches for the loop wrap instead, then tries three navigation strategies in order and verifies the feed actually moved before accepting one as successful.
 
 Holds in background tabs, respects a manual pause, EN/TR interface. One permission (`storage`), no network access, no analytics.
 
-`Manifest V3` · `JavaScript` · `v2.0.0` · *private for now*
+[`Chrome Web Store`](https://chromewebstore.google.com/detail/nextshorts-%e2%80%94-auto-advance/hdanpjeffljaehmejigccijknedbadcj) · `Manifest V3` · `JavaScript` · `v2.0.0` · *source private*
 
 </td>
 </tr>
