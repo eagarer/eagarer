@@ -106,8 +106,21 @@ Next.js reference setup I use as a starting point.
 ### Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eagarer&show_icons=true&include_all_commits=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="Eray's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=eagarer&layout=compact&langs_count=8&hide_border=true&title_color=0A66C2" alt="Most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eagarer&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eagarer&theme=default" alt="Profile summary" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eagarer&theme=github_dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eagarer&theme=default" alt="Most committed languages" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eagarer&theme=github_dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eagarer&theme=default" alt="Repositories per language" />
+  </picture>
 </p>
 
 <p align="center">
@@ -116,9 +129,14 @@ Next.js reference setup I use as a starting point.
 
 <!--
   Notlar:
-  - Streak kartı eski README'de github-readme-streak-stats.herokuapp.com üzerindeydi;
-    Heroku ücretsiz katmanı kapandığı için o adres artık çalışmıyor.
-    Yenisi streak-stats.demolab.com (aynı projenin güncel barındırması).
-  - Renkleri değiştirmek istersen kart URL'lerindeki 0A66C2 (LinkedIn mavisi) değerlerini düzenle.
-  - Profil görüntüleme sayacını istemiyorsan komarev.com satırını sil.
+  - Kartlar github-profile-summary-cards uzerinden geliyor. Onceki README
+    github-readme-stats.vercel.app kullaniyordu; o ortak instance su an
+    DEPLOYMENT_PAUSED durumunda (Vercel limitleri), yani kartlar bos cikiyordu.
+  - Streak karti da eski README de github-readme-streak-stats.herokuapp.com
+    adresindeydi; Heroku ucretsiz katmani kapandigi icin calismiyor.
+    Yenisi streak-stats.demolab.com (ayni projenin guncel barindirmasi).
+  - <picture> + prefers-color-scheme sayesinde kartlar GitHub in koyu
+    temasinda da dogru renkte gorunuyor.
+  - Renkleri degistirmek icin streak URL indeki 0A66C2 (LinkedIn mavisi) degerlerini duzenle.
+  - Profil goruntuleme sayacini istemiyorsan basdaki komarev.com satirini sil.
 -->
