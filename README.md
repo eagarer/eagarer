@@ -44,13 +44,13 @@ Traceable (`FR → UC → epic → test`), argued, and honest: it ends with a re
 </td>
 <td width="50%" valign="top">
 
-#### 🔧 Servio — [live demo](https://servio-navy.vercel.app)
+#### 🎬 NextShorts
 
-Multi-tenant SaaS for repair shops. Type a plate, get everything ever done to that car: job timeline, recurring-fault warning, warranty status, photo evidence.
+Chrome extension that auto-advances YouTube Shorts. The advancing isn't the hard part — Shorts loop by default, so the `ended` event never fires at all. It watches for the loop wrap instead, then tries three navigation strategies in order and verifies the feed actually moved before accepting one as successful.
 
-Built around one idea — no surprise invoices. Quotes need approval, history is provable, and every shop's data is isolated at the database level with Postgres RLS.
+Holds in background tabs, respects a manual pause, EN/TR interface. One permission (`storage`), no network access, no analytics.
 
-`Next.js 16` · `React 19` · `TypeScript` · `Tailwind v4` · `Supabase` · *source private*
+`Manifest V3` · `JavaScript` · `v2.0.0` · *private for now*
 
 </td>
 </tr>
