@@ -1,21 +1,124 @@
-<h1 align="center">Hi 👋, I'm Eray Agarer</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Eray Agarer</h1>
 
-- 🌱 I’m currently learning **React.js, React Native and Data Science**
-
-- 📫 How to reach me **erayagarer@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eray-agarer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray-agarer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/erayagarer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erayagarer" height="30" width="40" /></a>
+<p align="center">
+  <b>Front-end developer</b> · Türkiye<br/>
+  TypeScript, React &amp; Next.js — real-time telephony and AI interfaces.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/eray-agarer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/erayagarer"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="mailto:erayagarer@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=eagarer&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eagarer&show_icons=true&locale=en&layout=compact" alt="eagarer" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eagarer&show_icons=true&locale=en" alt="eagarer" /></p>
+### About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eagarer&" alt="eagarer" /></p>
+I build the front-end of products where the interface has to keep up with something live — a call in progress, an agent streaming a reply, a queue changing under the user's feet.
+
+- 🛠️ Working on **WebRTC softphones, PBX dashboards and AI agent consoles** — Next.js + TypeScript, real-time state over WebSocket/SIP.
+- 🧩 Interested in **design systems, component APIs and state that stays predictable** when everything is async.
+- 🌱 Currently going deeper into **React Native**, **AI-assisted developer tooling** and **data visualisation**.
+- ✍️ I write my architecture and requirements down before I write the code — which is how [`engineering-blueprint`](https://github.com/eagarer/engineering-blueprint) happened.
+- 📫 Reach me at **erayagarer@gmail.com**.
+
+---
+
+### Featured
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧱 [engineering-blueprint](https://github.com/eagarer/engineering-blueprint)
+
+A Claude Code plugin that turns a rough product idea into an engineering documentation set a team can actually build from — numbered requirements, C4 diagrams, ADRs that name the rejected alternative, ERDs, API contracts and a delivery plan.
+
+Traceable (`FR → UC → epic → test`), argued, and honest: it ends with a required gap analysis that critiques its own output.
+
+`Claude Skill` · `Mermaid` · `MIT`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 [ExcelPreview](https://github.com/eagarer/ExcelPreview)
+
+Browser-side spreadsheet preview — drop an Excel file in, render it without a round trip to a server.
+
+`JavaScript`
+
+#### 🎁 [raffle](https://github.com/eagarer/raffle)
+
+Raffle / giveaway draw application built with TypeScript.
+
+`TypeScript`
+
+#### ⚡ [next-example](https://github.com/eagarer/next-example)
+
+Next.js reference setup I use as a starting point.
+
+`TypeScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech
+
+**Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Styling & UI**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+---
+
+### Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eagarer&show_icons=true&include_all_commits=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="Eray's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=eagarer&layout=compact&langs_count=8&hide_border=true&title_color=0A66C2" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eagarer&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub streak" />
+</p>
+
+<!--
+  Notlar:
+  - Streak kartı eski README'de github-readme-streak-stats.herokuapp.com üzerindeydi;
+    Heroku ücretsiz katmanı kapandığı için o adres artık çalışmıyor.
+    Yenisi streak-stats.demolab.com (aynı projenin güncel barındırması).
+  - Renkleri değiştirmek istersen kart URL'lerindeki 0A66C2 (LinkedIn mavisi) değerlerini düzenle.
+  - Profil görüntüleme sayacını istemiyorsan komarev.com satırını sil.
+-->
